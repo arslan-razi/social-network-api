@@ -12,13 +12,14 @@
     "url": "git+https://github.com/arslan-razi/social-network-api.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Arslan Razi",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/arslan-razi/social-network-api/issues"
   },
   "homepage": "https://github.com/arslan-razi/social-network-api#readme",
   "dependencies": {
+    "express": "^4.17.3",
     "mongoose": "^6.2.3"
   }
 }
